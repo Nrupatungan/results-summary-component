@@ -4,13 +4,13 @@
 
 @font-face {
     font-family: 'hankengrotesk';
-    src: url(../../../assets/fonts/hankengrotesk-variablefont_wght-webfont.woff),
-         url(../../../assets/fonts/hankengrotesk-variablefont_wght-webfont.woff2);
+    src: url(..//..//..//assets//fonts//hankengrotesk-variablefont_wght-webfont.woff),
+         url(..//..//..//assets//fonts//hankengrotesk-variablefont_wght-webfont.woff2);
     font-weight: normal;
     font-style: normal;
 }
 
-$hankengrotesk: 'hankengrotesk';
+$hankengrotesk: 'hankengrotesk','Hanken Grotesk', sans-serif;
 $light: 500;
 $dark: 700;
 $very-dark: 800;
